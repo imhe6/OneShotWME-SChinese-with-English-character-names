@@ -917,7 +917,7 @@ msgid "@george1_hm Aha!\\>\\nThat... \\@george1_smug is a question George can an
 msgstr "@george1_hm 啊哈！\\>\\n那个……\\@george1_smug 是George可以回答的问题！"
 
 msgid "@george1 It means you need items containing yellow phosphor, the rarest of the phosphors.\\>\\n\\@george1 ...said to absorb sunlight for the longest time and never fade out."
-msgstr "@george1 那代表你需要含有最稀有的发光矿——黄色发光体的物品。\\>\\n\\@george1 ……据说黄燐吸收阳光的时间最久，而且它的光能永远不会消退。"
+msgstr "@george1 那代表你需要含有最稀有的发光矿——黄色发光体的物品。\\>\\n\\@george1 ……据说黄色荧光体吸收阳光的时间最久，而且它的光能永远不会消退。"
 
 msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
 msgstr "@niko_speak 这样啊！\\>\\n\\@niko 我是有一块琥珀和一根羽毛，这两样东西都会发黄光……"
@@ -1058,7 +1058,7 @@ msgid "@george2_grr Do I have to explain EVERYTHING..."
 msgstr "@george2_grr 我非得一样一样解释是不是……"
 
 msgid "@george2_sigh Sigh.\\>\\n\\@george2_grr It's just a fancy word for objects containing yellow phosphor."
-msgstr "@george2_sigh 唉。\\>\\n\\@george2_grr 那只是含有黄燐的东西的美称而已。"
+msgstr "@george2_sigh 唉。\\>\\n\\@george2_grr 那只是含有黄色荧光体的东西的美称而已。"
 
 msgid "@george2_sigh Y'know, stuff that glows yellow."
 msgstr "@george2_sigh 你知道，就是那些会发黄光的玩意。"
@@ -1214,7 +1214,7 @@ msgid "@george3 Oh."
 msgstr "@george3 喔。"
 
 msgid "@george3_sigh That's just referring to things with yellow phosphor in them.\\>\\n\\@george3 They uh... they glow for a long time!"
-msgstr "@george3_sigh 那只是在说含有黄燐的东西。\\>\\n\\@george3 那些东西、呃……会长时间发光！"
+msgstr "@george3_sigh 那只是在说含有黄色荧光体的东西。\\>\\n\\@george3 那些东西、呃……会长时间发光！"
 
 msgid "@george3_worry But they're really rare..."
 msgstr "@george3_worry 不过这种东西非常稀有……"
@@ -1367,7 +1367,7 @@ msgid "@george4_omg Oh! Of course!"
 msgstr "@george4_omg 喔！当然咯！"
 
 msgid "@george4_smile That just means you need things that contain yellow phosphor!\\>\\n\\@george4 They glow for a long time!"
-msgstr "@george4_smile 那个意思只是说你需要含有黄燐的东西！\\>\\n\\@george4 这种东西会长时间发光！"
+msgstr "@george4_smile 那个意思只是说你需要含有黄色荧光体的东西！\\>\\n\\@george4 这种东西会长时间发光！"
 
 msgid "@niko_speak Ooh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
 msgstr "@niko_speak 这样啊！\\>\\n\\@niko 我是有一块琥珀和一根羽毛，这两样东西都会发黄光……"
@@ -1505,7 +1505,7 @@ msgid "@niko_speak Oh! What does it mean by \"three pieces of the previous sun\"
 msgstr "@niko_speak 对了，上面写的“三块旧太阳”是什么意思啊？\\>\\n\\@niko 我只有这个太阳……"
 
 msgid "@george5 That means the stuff containing yellow phosphor!\\>\\n\\@george5_smile They glow for a very long time, so people call them \"pieces of the sun\" sometimes!"
-msgstr "@george5 那是指含有黄燐的东西！\\>\\n\\@george5_smile 这种东西会长时间发光，所以有时候人们会称之为“太阳的碎片”！"
+msgstr "@george5 那是指含有黄色荧光体的东西！\\>\\n\\@george5_smile 这种东西会长时间发光，所以有时候人们会称之为“太阳的碎片”！"
 
 msgid "@george5 Very good, dear!\\>\\n\\@george5_smile And I can help you with the last one!"
 msgstr "@george5 很好，亲爱的孩子！\\>\\n\\@george5_smile 缺少的最后一块，我能帮你！"
@@ -1613,7 +1613,7 @@ msgid "@george6_shrug Bummer! I was hoping to figure out what he meant by saying
 msgstr "@george6_shrug 伤脑筋！我本来希望能破解这边的“窗口”是什么意思。\\>\\n\\@george6 看来我们只能让\\p自己解决咯？"
 
 msgid "@george6_point Oh! That's just stuff with yellow phosphor in 'em!\\>\\n\\@george6 The kind of stuff that glows forever, dude."
-msgstr "@george6_point 喔！那只是含有黄燐的东西啦！\\>\\n\\@george6 那种东西会发光到天荒地老，小鬼。"
+msgstr "@george6_point 喔！那只是含有黄色荧光体的东西啦！\\>\\n\\@george6 那种东西会发光到天荒地老，小鬼。"
 
 msgid "@george6_fingerguns Eyyyy! Now that's what I'm talkin about!"
 msgstr "@george6_fingerguns 嘿！我说的就是这种东西！"

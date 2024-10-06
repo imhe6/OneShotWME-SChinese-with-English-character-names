@@ -242,16 +242,16 @@ msgid "book_fauna=Fauna"
 msgstr "生物手记"
 
 msgid "book_phosphor1=Phosphor 1"
-msgstr "燐1"
+msgstr "荧光体1"
 
 msgid "book_phosphor2=Phosphor 2"
-msgstr "燐2"
+msgstr "荧光体2"
 
 msgid "book_phosphor3=Phosphor 3"
-msgstr "燐3"
+msgstr "荧光体3"
 
 msgid "book_phosphor4=Phosphor 4"
-msgstr "燐4"
+msgstr "荧光体4"
 
 msgid "book_prophet=Prophet"
 msgstr "先知"

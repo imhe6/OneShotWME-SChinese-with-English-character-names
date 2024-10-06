@@ -1,5 +1,5 @@
 msgid "[PHOSPHOR TREES ARE NOW BEING PROTECTED UNDER THE NEW LAWS.]"
-msgstr "[燐树现在受到新的法律保护。]"
+msgstr "[荧光树现在受到新的法律保护。]"
 
 msgid "[PLEASE DO NOT HARVEST THEM.]"
 msgstr "[请勿采收。]"
@@ -71,5 +71,5 @@ msgid "@niko_speak No? I'm with \\p..."
 msgstr "@niko_speak 不是耶，我是跟\\p一起来的……"
 
 msgid "[PHOSPHOR TREE GROWTH RATE HAS BEEN REDUCED AS OF LATE...]"
-msgstr "[最近燐树的生长速率变慢了……]"
+msgstr "[最近荧光树的生长速率变慢了……]"
 

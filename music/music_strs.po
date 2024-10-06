@@ -5,7 +5,7 @@ msgid "SomeplaceIKnow=Someplace I Know"
 msgstr "熟悉的场所"
 
 msgid "Phosphor=Phosphor"
-msgstr "燐"
+msgstr "荧光体"
 
 msgid "Phosphor_dark=The Prophecy"
 msgstr "预言"

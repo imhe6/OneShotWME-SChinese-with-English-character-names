@@ -77,7 +77,7 @@ msgid "lamplighter:subtitle=Met: Refuge"
 msgstr "初遇：Refuge"
 
 msgid "lamplighter:infoText=A tired-looking man who seems to subsist purely on gallons of coffee. It's unclear how long it's been since the last time he slept. Though he's not the brightest fellow, he's an incredibly hard worker and takes his job very seriously. So seriously, in fact, that he gets anxious whenever he can't perform his duties. He's responsible for keeping the lights around the city lit, as well as delivering highly concentrated phosphor for use in machines.\n\nA high-school dropout, he feels nervous whenever he has to be around smart people. Lately the Lamplighter has taken to reading the dictionary in what little free time he has."
-msgstr "看上去身心俱疲的男子，给人一种全靠狂灌咖啡活着的感觉。没人知道他上次睡觉是什么时候。虽然脑袋算不得聪明，但工作起来兢兢业业，甚至还会因为无法履行职责而坐立不安。职责是点亮Refuge各处的灯盏，也负责运送机器运转所需的燐。\n\n没有读完高中，因此和聪明人待在一起时总感到格外紧张。最近开始利用少得可怜的空闲时间读辞典了。"
+msgstr "看上去身心俱疲的男子，给人一种全靠狂灌咖啡活着的感觉。没人知道他上次睡觉是什么时候。虽然脑袋算不得聪明，但工作起来兢兢业业，甚至还会因为无法履行职责而坐立不安。职责是点亮Refuge各处的灯盏，也负责运送机器运转所需的荧光体。\n\n没有读完高中，因此和聪明人待在一起时总感到格外紧张。最近开始利用少得可怜的空闲时间读辞典了。"
 
 msgid "watcher:title=The Watcher"
 msgstr "Watcher"

@@ -113,16 +113,16 @@ msgid "@mason Sorta!"
 msgstr "@mason 算是吧！"
 
 msgid "@mason What's interesting about these plants is the amount of phosphor sap they can generate."
-msgstr "@mason 这些植物有趣的地方在于它们的燐汁产量。"
+msgstr "@mason 这些植物有趣的地方在于它们的荧光体汁产量。"
 
 msgid "@niko Phosphor... that's the glowy stuff, right?"
-msgstr "@niko 燐……就是那种发亮的东西对吧？"
+msgstr "@niko 荧光体……就是那种发亮的东西对吧？"
 
 msgid "@mason Phosphor can store light energy and slowly emit it over time."
-msgstr "@mason 燐可以储存光能，再慢慢散发。"
+msgstr "@mason 荧光体可以储存光能，再慢慢散发。"
 
 msgid "@mason Most of the phosphor from this world still contains energy from before the sun went out."
-msgstr "@mason 这个世界上大部分的燐都还保有太阳熄灭前吸收的能量。"
+msgstr "@mason 这个世界上大部分的荧光体都还保有太阳熄灭前吸收的能量。"
 
 msgid "@mason Without the sun to recharge them, though..."
 msgstr "@mason 可惜已经没有没有太阳为它们再次充能了……"

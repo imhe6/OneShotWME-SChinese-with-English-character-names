@@ -902,7 +902,7 @@ msgid "@prophet_sigh [The World Is Still Hanging On By A Thread.]"
 msgstr "@prophet_sigh [这个世界岌岌可危。]"
 
 msgid "@prophet_hmm [The Surface Of This World Is Abundant With An Element Called Phosphor.]"
-msgstr "@prophet_hmm [这个世界的表面有大量称为燐的元素。]"
+msgstr "@prophet_hmm [这个世界的表面有大量称为荧光体的元素。]"
 
 msgid "@prophet_hmm [Fortunately For Us, This Element Stored Light Energy From Our Previous Sun.]"
 msgstr "@prophet_hmm [所幸这种元素储存了旧太阳散发的光能。]"

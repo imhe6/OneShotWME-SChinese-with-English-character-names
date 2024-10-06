@@ -605,7 +605,7 @@ msgid "@niko_speak A big book with a black clover on the cover."
 msgstr "@niko_speak 一本大开本的书，封面上有黑三叶草标志。"
 
 msgid "@niko The title says \"A Comprehensive Guide to Phosphors\"."
-msgstr "@niko 书名是《燐矿完全指南》。"
+msgstr "@niko 书名是《荧光矿完全指南》。"
 
 msgid "@niko A marker drawing of a clover."
 msgstr "@niko 用白板笔画的三叶草。"

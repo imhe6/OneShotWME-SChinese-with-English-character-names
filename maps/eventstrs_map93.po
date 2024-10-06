@@ -23,7 +23,7 @@ msgid "$-Acidic gas"
 msgstr "$─酸性气体"
 
 msgid "$-Blue phosphor (rare form)"
-msgstr "$─蓝燐（稀有形态）"
+msgstr "$─蓝色荧光体（稀有形态）"
 
 msgid "$Instructions:"
 msgstr "$指示："
