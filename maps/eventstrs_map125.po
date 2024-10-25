@@ -89,13 +89,13 @@ msgid "She still talks a little weird sometimes, but that's okay! She's learning
 msgstr "她有时候讲话方式还是有点奇怪，不过没关系！她在学习！"
 
 msgid "If I work real hard, she might even be tamed someday!"
-msgstr "如果我够努力，或许有一天还可以将她驯化！"
+msgstr "如果我够努力，或许有一天还可以将她制御！"
 
 msgid "@niko I keep hearing that word..."
 msgstr "@niko 我常常听到那个词……"
 
 msgid "What, tame?"
-msgstr "哪个词？驯化吗？"
+msgstr "哪个词？制御吗？"
 
 msgid "@niko Mhm!"
 msgstr "@niko 对啊！"

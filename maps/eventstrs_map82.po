@@ -29,7 +29,7 @@ msgid "$I think it's going to be our turn soon..."
 msgstr "$应该很快就轮到我们了吧……"
 
 msgid "$Looks like they're evacuating the few tamed robots we have here."
-msgstr "$看来他们要撤走我们这里仅有的几个驯化机器人。"
+msgstr "$看来他们要撤走我们这里仅有的几个制御机器人。"
 
 msgid "$Makes sense... no point in keeping them in the Barrens if all the people are already gone."
 msgstr "$这也是合理的……如果荒野都没有人了，把它们留在这里也没意义。"

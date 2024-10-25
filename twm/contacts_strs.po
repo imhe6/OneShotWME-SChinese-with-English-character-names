@@ -185,7 +185,7 @@ msgid "prototype:subtitle=Met: Barrens"
 msgstr "初遇：Barrens"
 
 msgid "prototype:infoText=A dour and reclusive robot that lives in the outskirts of the outskirts of the world, waiting for a second chance. One day the messiah showed up; that was truly an unexpected turn of events.\n\nProto is a child of The Author and a predecessor to the Prophetbot that lives in the Barrens. Originally built to serve the same purpose of greeting the messiah, not as a preprogrammed robot but a tamed one with its own will. Unfortunately, Prototype never saw a messiah in their own time.\n\nThough seemingly unfriendly, Proto isn't uncaring. He keeps his eye on Silver and the Barrens from the shadows, and Silver looks out for him in turn."
-msgstr "不苟言笑的机器人，隐居在世界最荒芜的边缘地带，等待着属于自己的第二次机会。出乎他意料的是，有一天，救世主真的出现了。\n\n是作家的造物，也是Barrens先知机器人的前身。他的设计目的与先知机器人相同，都是迎接救世主的到来，但有所不同的是，预原机器人并非完全依照编写好的程序行动，而是在拥有自由意志的基础上被驯化来执行这个使命。然而，在预原机器人负责值守的年月里，他并没能亲眼得见救世主降临。\n\n虽然看上去可能不太友好，但Proto并非对他人漠不关心。他一直暗中关照着Silver乃至整个Barrens，而Silver也会格外照顾他。"
+msgstr "不苟言笑的机器人，隐居在世界最荒芜的边缘地带，等待着属于自己的第二次机会。出乎他意料的是，有一天，救世主真的出现了。\n\n是作家的造物，也是Barrens先知机器人的前身。他的设计目的与先知机器人相同，都是迎接救世主的到来，但有所不同的是，预原机器人并非完全依照编写好的程序行动，而是在拥有自由意志的基础上被制御来执行这个使命。然而，在预原机器人负责值守的年月里，他并没能亲眼得见救世主降临。\n\n虽然看上去可能不太友好，但Proto并非对他人漠不关心。他一直暗中关照着Silver乃至整个Barrens，而Silver也会格外照顾他。"
 
 msgid "cedric:title=Cedric"
 msgstr "Cedric"

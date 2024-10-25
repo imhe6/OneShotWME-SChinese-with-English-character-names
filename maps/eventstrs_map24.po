@@ -347,10 +347,10 @@ msgid "@niko_eyeclosed It's a little hard to understand sometimes."
 msgstr "@niko_eyeclosed 有时候这有点难懂。"
 
 msgid "@silver_eyeclosed [Most of the robots here are not tamed.]"
-msgstr "@silver_eyeclosed [这里大部分的机器人都没有驯化。]"
+msgstr "@silver_eyeclosed [这里大部分的机器人都没有制御。]"
 
 msgid "@niko_speak Tamed?"
-msgstr "@niko_speak 驯化？"
+msgstr "@niko_speak 制御？"
 
 msgid "@silver [Watch out.]"
 msgstr "@silver [小心。]"
@@ -359,7 +359,7 @@ msgid "@niko_what ...\\.\\.there goes my bishop..."
 msgstr "@niko_what ……\\.\\.我的象被吃了……"
 
 msgid "@silver [Taming...\\.\\. is complicated.]"
-msgstr "@silver [驯化……\\.\\.这件事很复杂。]"
+msgstr "@silver [制御……\\.\\.这件事很复杂。]"
 
 msgid "@niko_speak How complicated, exactly?"
 msgstr "@niko_speak 到底有多复杂呢？"
@@ -368,13 +368,13 @@ msgid "@niko_eyeclosed ...\\.\\.there goes my other bishop..."
 msgstr "@niko_eyeclosed ……\\.\\.另一个象也被吃掉了……"
 
 msgid "@silver_lookup [I can't really explain what tamed robots are.]"
-msgstr "@silver_lookup [我没办法确切解释驯化的机器人是什么。]"
+msgstr "@silver_lookup [我没办法确切解释制御的机器人是什么。]"
 
 msgid "@silver [But I'm one of them.]"
 msgstr "@silver [但我是其中一个。]"
 
 msgid "@silver_lookup [All the other tamed robots have been moved to other regions.]"
-msgstr "@silver_lookup [其他驯化的机器人都被搬移到别的区域了。]"
+msgstr "@silver_lookup [其他制御的机器人都被搬移到别的区域了。]"
 
 msgid "@silver_eyeclosed [Exactly where, I don't know.]"
 msgstr "@silver_eyeclosed [具体地点我就不知道了。]"
@@ -587,7 +587,7 @@ msgid "@silver_eyeclosed [No.]\\>\\n\\@silver [Nobody in the Barrens have that c
 msgstr "@silver_eyeclosed [没有。]\\>\\n\\@silver [Barrens的机器人，程序里都没有这种能力。]"
 
 msgid "@silver_eyeclosed [Nobody here is tamed, for that matter.]"
-msgstr "@silver_eyeclosed [就这点而言，这里没有机器人受过驯化。]"
+msgstr "@silver_eyeclosed [就这点而言，这里没有机器人受过制御。]"
 
 msgid "@niko A bed."
 msgstr "@niko 床。"

@@ -185,10 +185,10 @@ msgid "@rue ...myself included."
 msgstr "@rue ……包括我在内。"
 
 msgid "@rue_sad The odds are against us... we have no chance of taming it."
-msgstr "@rue_sad 局势对我们不利……我们没有机会驯化它。"
+msgstr "@rue_sad 局势对我们不利……我们没有机会制御它。"
 
 msgid "@niko2 Taming?"
-msgstr "@niko2 驯化？"
+msgstr "@niko2 制御？"
 
 msgid "@niko_eyeclosed I have heard that word SO many times!"
 msgstr "@niko_eyeclosed 这两个字我听过好多遍了！"

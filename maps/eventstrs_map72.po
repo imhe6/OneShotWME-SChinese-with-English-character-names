@@ -227,7 +227,7 @@ msgid "@bookbot [MY PROGRAMMING IS NOT FLEXIBLE.]"
 msgstr "@bookbot [我的程序没有办法通融。]"
 
 msgid "@bookbot [I HAVE NOT BEEN TAMED.]"
-msgstr "@bookbot [我没有经过驯化。]"
+msgstr "@bookbot [我没有经过制御。]"
 
 msgid "@niko_eyeclosed Sigh..."
 msgstr "@niko_eyeclosed 唉……"

@@ -524,22 +524,22 @@ msgid "@en_distressed_meow [I can't!]"
 msgstr "@en_distressed_meow [我办不到！]"
 
 msgid "@en_distressed [I'm not tamed!]"
-msgstr "@en_distressed [我没有经过驯化！]"
+msgstr "@en_distressed [我没有经过制御！]"
 
 msgid "@niko_upset_meow ...yes you are!"
 msgstr "@niko_upset_meow ……有，你有！"
 
 msgid "@niko_distressed_talk You talk just like the tamed robots I know!"
-msgstr "@niko_distressed_talk 你说话的方式就跟我认识的已驯化机器人一样！"
+msgstr "@niko_distressed_talk 你说话的方式就跟我认识的已制御机器人一样！"
 
 msgid "@niko_distressed2 The robot lady... Prototype..."
 msgstr "@niko_distressed2 机器人女士……还有Prototype……"
 
 msgid "@niko3 Taming is when a real person cares about you, right?"
-msgstr "@niko3 驯化就是有人重视你，对吧？"
+msgstr "@niko3 制御就是有人重视你，对吧？"
 
 msgid "@niko_distressed It's when a real person thinks you're real too, right?"
-msgstr "@niko_distressed 当一个真正存在的人认为你也是真的，这就是驯化对吧？"
+msgstr "@niko_distressed 当一个真正存在的人认为你也是真的，这就是制御对吧？"
 
 msgid "@niko_distressed_meow Well guess what! \\>I do!"
 msgstr "@niko_distressed_meow 告诉你！\\>我重视你也相信你！"

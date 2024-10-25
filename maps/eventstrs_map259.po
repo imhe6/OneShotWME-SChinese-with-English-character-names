@@ -5,7 +5,7 @@ msgid "@ed [...Niko was right.]"
 msgstr "@ed [……Niko说得对。]"
 
 msgid "@ed [I... might actually be tamed, after all.]"
-msgstr "@ed [我……终究还是有希望被驯化。]"
+msgstr "@ed [我……终究还是有希望被制御。]"
 
 msgid "@ed [I...]"
 msgstr "@ed [我……]"

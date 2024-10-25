@@ -35,7 +35,7 @@ msgid "@rowbot [IT'S OKAY.]"
 msgstr "@rowbot [没关系的。]"
 
 msgid "@rowbot [I HAVE NOT BEEN TAMED.]"
-msgstr "@rowbot [我没有经过驯化。]"
+msgstr "@rowbot [我没有经过制御。]"
 
 msgid "Hm..."
 msgstr "嗯……"

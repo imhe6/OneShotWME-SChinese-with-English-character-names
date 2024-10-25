@@ -410,10 +410,10 @@ msgid "@niko_speak Do you at least have friends?\\>\\n\\@niko Robot...\\. friend
 msgstr "@niko_speak 那最起码，你有朋友吗？\\>\\n\\@niko 机器人……\\.朋友？"
 
 msgid "@prophet [I Cannot Desire Companionship.]\\>\\n\\@prophet_hmm [I Have Not Been Tamed.]"
-msgstr "@prophet [我不能渴望陪伴。]\\n\\>\\@prophet_hmm [我没有经过驯化。]"
+msgstr "@prophet [我不能渴望陪伴。]\\n\\>\\@prophet_hmm [我没有经过制御。]"
 
 msgid "@niko Not... tamed?"
-msgstr "@niko 没有……驯化？"
+msgstr "@niko 没有……制御？"
 
 msgid "@prophet [There Was No Time.]"
 msgstr "@prophet [没时间了。]"

@@ -269,7 +269,7 @@ msgid "@proto2b [You don't understand.]"
 msgstr "@proto2b [你不懂。]"
 
 msgid "@proto2 [Not only is he not tamed... \\>\\@proto2b he was tailor-made for this much smaller, simpler world to begin with.]"
-msgstr "@proto2 [他不但没经过驯化……\\>\\@proto2b 而且他从一开始就是为这个更小、更单纯的世界量身打造的。]"
+msgstr "@proto2 [他不但没经过制御……\\>\\@proto2b 而且他从一开始就是为这个更小、更单纯的世界量身打造的。]"
 
 msgid "@proto2b [I was not.]"
 msgstr "@proto2b [而我不是。]"

@@ -494,7 +494,7 @@ msgid "@proto1b [...Being able to generate its own path forward.]"
 msgstr "@proto1b [……它能够向前开拓自己的道路了。]"
 
 msgid "@proto2b [That's...\\.\\. what being tamed is all about.]"
-msgstr "@proto2b [所谓驯化……\\.\\.就是这么一回事。]"
+msgstr "@proto2b [所谓制御……\\.\\.就是这么一回事。]"
 
 msgid "@cedric_smile I couldn't have said it better myself."
 msgstr "@cedric_smile 我没办法解释得比这个更好。"
@@ -620,10 +620,10 @@ msgid "@cedric_smile Looks like you managed to do it!"
 msgstr "@cedric_smile 看来你真的设法做到了！"
 
 msgid "@rue_smile You managed to tame the World Machine, Niko!"
-msgstr "@rue_smile Niko，你找到方法驯化了世界机器！"
+msgstr "@rue_smile Niko，你找到方法制御了世界机器！"
 
 msgid "@niko2 I... feel like the World Machine has been tamed this whole time."
-msgstr "@niko2 我……我觉得世界机器其实从很久以前就已经驯化了。"
+msgstr "@niko2 我……我觉得世界机器其实从很久以前就已经制御了。"
 
 msgid "@niko6 ...Just by \\p and I being here."
 msgstr "@niko6 ……因为\\p和我在这里。"
