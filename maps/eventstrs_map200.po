@@ -14,7 +14,7 @@ msgid "Nothing's biting..."
 msgstr "没有鱼上钩……"
 
 msgid "Hi I'm an inaccessible npc."
-msgstr "你好，我是无法靠近的游戏角色。"
+msgstr "你好，我是无法靠近的NPC。"
 
 msgid "*sniff*"
 msgstr "*啜泣*"

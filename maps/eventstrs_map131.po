@@ -236,7 +236,7 @@ msgid "@en3 [But before he knew how to fix it...]"
 msgstr "@en3 [可是在他找到修复的办法之前……]"
 
 msgid "@en3 [The world's NPCs... the characters.]"
-msgstr "@en3 [这世界的游戏角色……那些人物……]"
+msgstr "@en3 [这世界的NPC……那些人物……]"
 
 msgid "@en_upset2 [Some of them got too close, and...]"
 msgstr "@en_upset2 [他们有些离真相太近，然后……]"

@@ -428,10 +428,10 @@ msgid "@proto1c [Of course not. The residents do not have that capacity.]"
 msgstr "@proto1c [他们当然不记得。这里的居民没有那种能力。]"
 
 msgid "@proto1 [NPC memories do not last beyond the scope of a session.]"
-msgstr "@proto1 [游戏角色的记忆没办法在一次游戏完成后继续保持。]"
+msgstr "@proto1 [NPC的记忆没办法在一次游戏完成后继续保持。]"
 
 msgid "@niko2 N...\\.\\. PC?"
-msgstr "@niko2 游……\\.\\.游戏角色？"
+msgstr "@niko2 N……\\.\\.PC？"
 
 msgid "@proto1c [You know, the characters...\\> the world's residents.]"
 msgstr "@proto1c [你知道，就是人物……\\>这世界的居民。]"

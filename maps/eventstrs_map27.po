@@ -44,7 +44,7 @@ msgid "Nothing's biting..."
 msgstr "没有鱼上钩……"
 
 msgid "Hi I'm an inaccessible npc."
-msgstr "你好，我是无法接触的游戏角色。"
+msgstr "你好，我是无法接触的NPC。"
 
 msgid "@niko A few small fish are in the bottom of this jar."
 msgstr "@niko 罐子底部有几只小鱼。"
