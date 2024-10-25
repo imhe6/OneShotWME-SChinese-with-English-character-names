@@ -1,5 +1,5 @@
 msgid "@rue_sigh You know... \\.\\.This is the tallest building in the refuge."
-msgstr "@rue_sigh 你知道……\\.\\.这是城里最高的建筑物。"
+msgstr "@rue_sigh 你知道……\\.\\.这是Refuge最高的建筑物。"
 
 msgid "@rue It's...\\.\\. my favorite place in this world."
 msgstr "@rue 这是……\\.\\.整个世界之中我最喜欢的地方。"

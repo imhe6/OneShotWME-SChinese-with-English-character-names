@@ -62,7 +62,7 @@ msgid "@niko3 The squares... there are way more than before!"
 msgstr "@niko3 我是说方块……数量比以前多出很多！"
 
 msgid "@niko_speak Even the gate to the Refuge is destroyed now. \\>\\n\\@niko3 That didn't happen last time!"
-msgstr "@niko_speak 连通往城市的大门都坏了。\\>\\n\\@niko3 上次没有这样！"
+msgstr "@niko_speak 连通往Refuge的大门都坏了。\\>\\n\\@niko3 上次没有这样！"
 
 msgid "@calamus_speak ...last time?"
 msgstr "@calamus_speak ……上次？"

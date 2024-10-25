@@ -29,7 +29,7 @@ msgid "@red_gatekeeper [Ah, The Sun.]"
 msgstr "@red_gatekeeper [啊，是太阳。]"
 
 msgid "@red_gatekeeper [Hello, Messiah. Welcome To The Refuge.]"
-msgstr "@red_gatekeeper [你好，救世主，欢迎来到城市。]"
+msgstr "@red_gatekeeper [你好，救世主，欢迎来到Refuge。]"
 
 msgid "@red_gatekeeper [Do You Understand What You Must Do Here?]"
 msgstr "@red_gatekeeper [你了解在这里该做什么吗？]"

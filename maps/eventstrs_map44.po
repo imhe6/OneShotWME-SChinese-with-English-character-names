@@ -35,7 +35,7 @@ msgid "@niko Mhm."
 msgstr "@niko 对啊。"
 
 msgid "@green_gatekeeper [You can enter the Refuge through this wall.\\nYou'll need to sign your name in this scroll first.]"
-msgstr "@green_gatekeeper [你可以穿过这面墙进入城市。\\n但你需要先在这份卷轴上签名。]"
+msgstr "@green_gatekeeper [你可以穿过这面墙进入Refuge。\\n但你需要先在这份卷轴上签名。]"
 
 msgid "@niko Alright.\\.\\.\\n.\\..\\..Do you have a pen?"
 msgstr "@niko 好。\\.\\.\\n.\\..\\.. 你有笔吗？"
