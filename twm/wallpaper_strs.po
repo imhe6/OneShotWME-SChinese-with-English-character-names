@@ -35,7 +35,7 @@ msgid "courtyard=Courtyard"
 msgstr "庭院"
 
 msgid "ruins=Calamus and Alula"
-msgstr "卡羽与阿露"
+msgstr "Calamus与Alula"
 
 msgid "catwalks=Catwalks"
 msgstr "高空步道"

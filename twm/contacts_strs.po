@@ -71,7 +71,7 @@ msgid "shepherd:infoText=A shepherd woman who tends a flock of rams. Seems to ha
 msgstr "放牧着一群公羊的女子。总能就公羊和计算机说出花样翻新的谐音梗，“羊羊”洒洒没个完，可说是让人穿上羊毛大衣也御不住寒的冷笑话狂人。对谐音梗的热爱到了荒腔走“主板”的地步，恐怕等你耳朵都听“牧”了她还没个完。能记住那么多谐音梗，脑子的内存怕是不小。但因为信息量实在太大了，听的人难免觉得痛不欲生。"
 
 msgid "lamplighter:title=Lamplighter"
-msgstr "点灯人"
+msgstr "Lamplighter"
 
 msgid "lamplighter:subtitle=Met: Refuge"
 msgstr "初遇：Refuge"
@@ -95,7 +95,7 @@ msgid "ling:subtitle=Met: Refuge"
 msgstr "初遇：Refuge"
 
 msgid "ling:infoText=The friendly proprietor of the Refuge Cafe. Once a popular spot to relax and bask in the warm aromas and gentle sounds of cafe ambiance, it's mostly deserted since the squares began picking apart the upper reaches of the city. Nowadays, Ling's best customer is the unfaltering (though not especially talkative) Lamplighter.\n\nAlways a gracious host, Ling enjoys meeting customers both new and old and chatting with them. If you ask nicely, he might even take the time to whip up a request for something off-menu!"
-msgstr "Refuge咖啡馆的店主，为人友善。这里一度顾客盈门，满溢令人身心愉悦的咖啡香气与温柔环境音，但由于上城区遭到方块蚕食瓦解，目前已濒临倒闭。这些日子，风雨无阻上工的点灯人堪称凌最忠实的顾客。\n\n热情好客的凌无论新老面孔一概欢迎，跟谁都能聊上几句。如果你态度够好，或许他还会为你大显身手，端上菜单里没有的隐藏美味呢！"
+msgstr "Refuge咖啡馆的店主，为人友善。这里一度顾客盈门，满溢令人身心愉悦的咖啡香气与温柔环境音，但由于上城区遭到方块蚕食瓦解，目前已濒临倒闭。这些日子，风雨无阻上工的Lamplighter堪称Ling最忠实的顾客。\n\n热情好客的Ling无论新老面孔一概欢迎，跟谁都能聊上几句。如果你态度够好，或许他还会为你大显身手，端上菜单里没有的隐藏美味呢！"
 
 msgid "mason:title=Mason"
 msgstr "Mason"
@@ -104,7 +104,7 @@ msgid "mason:subtitle=Met: Refuge"
 msgstr "初遇：Refuge"
 
 msgid "mason:infoText=A chatty guy with a passion for plants. He owns a small plant shop in the refuge apartment district, however it's mostly just an excuse to do more gardening as Mason tends to gift almost as many plants as he sells. When it comes to horticultural advice, Mason is the guy to see.\n\nA friend of the Watcher. Mason also admires the Lamplighter's hard work, and once sent him one of his plants as a thank-you."
-msgstr "热爱植物的健谈男子。在Refuge的公寓区经营着一家花店，不过无偿赠送的植物和卖出的植物数量半斤八两，可见开店只是借口，深耕园艺才是本心。需要这方面专业意见的时候，找他准没错。\n\nMason是Watcher的朋友，也颇为尊敬尽忠职守的点灯人，曾送过他一株自己栽培的植物以表感激之情。"
+msgstr "热爱植物的健谈男子。在Refuge的公寓区经营着一家花店，不过无偿赠送的植物和卖出的植物数量半斤八两，可见开店只是借口，深耕园艺才是本心。需要这方面专业意见的时候，找他准没错。\n\nMason是Watcher的朋友，也颇为尊敬尽忠职守的Lamplighter，曾送过他一株自己栽培的植物以表感激之情。"
 
 msgid "kelvin:title=Kelvin"
 msgstr "Kelvin"
@@ -113,7 +113,7 @@ msgid "kelvin:subtitle=Met: Refuge"
 msgstr "初遇：Refuge"
 
 msgid "kelvin:infoText=A space heater robot that has claimed one of the corners of the Refuge's back alleys as his own. Kelvin's warm body naturally attracts a lot of cats, and he seems to have developed some kind of bond with them. Kelvin is always willing to offer his warmth and comfort to any creature that wanders by.\n\nTechnically the lamplighter's neighbour, but they don't interact much..."
-msgstr "在Refuge中某条陋巷占山为王的供暖机器人。Kelvin散发暖意的身体常引来不少猫咪聚集，如今他似乎已经同这些小动物建立起某种特别的情感联系。无论什么样的生物游荡至此，Kelvin都毫不吝惜与之分享温暖与慰藉。\n\n理论上是点灯人的邻居，但一人一机并不经常交流……"
+msgstr "在Refuge中某条陋巷占山为王的供暖机器人。Kelvin散发暖意的身体常引来不少猫咪聚集，如今他似乎已经同这些小动物建立起某种特别的情感联系。无论什么样的生物游荡至此，Kelvin都毫不吝惜与之分享温暖与慰藉。\n\n理论上是Lamplighter的邻居，但一人一机并不经常交流……"
 
 msgid "kip:title=Kip"
 msgstr "Kip"
